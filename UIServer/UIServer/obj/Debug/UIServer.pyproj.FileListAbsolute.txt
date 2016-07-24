@@ -1,0 +1,13 @@
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\bin\Microsoft.PythonTools.WebRole.dll
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\attach_server.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\visualstudio_py_debugger.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\visualstudio_py_repl.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\visualstudio_py_util.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\__init__.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\__main__.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\bin\AzureSetup.cfg
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\bin\Microsoft.PythonTools.AzureSetup.exe
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\bin\Microsoft.PythonTools.AzureSetup.exe.config
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\bin\wfastcgi.py
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\web.config
+\\mac\Home\Documents\GitHub\Project-Brooklyn\UIServer\UIServer\obj\Debug\web.debug.config
