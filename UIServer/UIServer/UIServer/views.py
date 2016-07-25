@@ -13,13 +13,90 @@ import time
 @app.route('/home')
 def home():
     """
-    just a crazy placeholder website for now
+   a page that shows up before you choose anything to view
     """
     return render_template(
-        'index.html',
-        title='Home Page',
+        'welcome.html',
+        title='start page',
         year=datetime.now().year,
     )
+
+@app.route('/reports')
+def reports():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'positions.html',
+        title='Positions',
+        year=datetime.now().year,
+    )
+
+@app.route('/help')
+def help():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'welcome.html',
+        title='start page',
+        year=datetime.now().year,
+    )
+
+@app.route('/admin')
+def admin():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'welcome.html',
+        title='start page',
+        year=datetime.now().year,
+    )
+
+@app.route('/positions')
+def positions():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'positions.html',
+        title='start page',
+        year=datetime.now().year,
+    )
+
+@app.route('/greeks')
+def greeks():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'welcome.html',
+        title='start page',
+        year=datetime.now().year,
+    )
+
+@app.route('/greekspl')
+def greekspl():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'welcome.html',
+        title='start page',
+        year=datetime.now().year,
+    )
+@app.route('/valuation')
+def valuation():
+    """
+   a page that shows up before you choose anything to view
+    """
+    return render_template(
+        'welcome.html',
+        title='start page',
+        year=datetime.now().year,
+    )
+
 @app.route('/test')
 def doTest():
     """

@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{%block contentSubNav %}
+<ul class="nav nav-tabs nav-justified">
+    <li role="presentation" class="active"><a href="{{url_for('positions')}}">Positions</a></li>
+    <li role="presentation"><a href="{{url_for('greeks')}}">Greeks</a></li>
+    <li role="presentation"><a href="{{url_for('greekspl')}}">Greeks PL</a></li>
+    <li role="presentation"><a href="{{url_for('valuation')}}">Valuation</a></li>
+    </ul>
+    
+    <div class="well well-lg">
+    {% block contentSubReport %}{% endblock %}
+</div>
+{% endblock %}
+
